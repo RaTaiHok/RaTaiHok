@@ -6,29 +6,20 @@
 - Python
 - TypeScript
 - Kotlin
+- SQL
 
 ### 兴趣爱好：🎵
 喜欢**可可爱爱**的东西和人<br>
 喜欢**粉色、蓝色、白色**
 - 音游
   - Arcaea
-  - Dynamite
   - Rotaeno
   - Phira
   - Malody
-    - 4K
-    - 6K
-    - Slide
   - Osu!
-    - Standard
-    - Mania 4K
-  - Lanota
-  - Muse Dash （退坑）
-  - Orzmic
-  - Project Sekai
-  - Orzmic （退坑）
-- 二次元
+  - Dynamite
 - Minecraft
+- 二次元
 <!--
 **RaTaiHok/RaTaiHok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
