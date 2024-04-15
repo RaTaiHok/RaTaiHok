@@ -5,7 +5,7 @@
 ### 正在学习：📕
 - Python
 - TypeScript
-- Kotlin
+- Vue
 - SQL
 
 ### 兴趣爱好：🎵
