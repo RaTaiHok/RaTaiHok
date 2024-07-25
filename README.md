@@ -9,6 +9,7 @@
 - TypeScript
 - Vue
 - SQL
+- C# (For Godot)
 
 ### 兴趣爱好：🎵
 喜欢**可可爱爱**的东西和人~<br>
