@@ -10,6 +10,9 @@
 - Vue
 - SQL
 - C# (For Godot)
+- Java
+- IDA逆向
+- 华为ICT
 
 ### 兴趣爱好：🎵
 喜欢**可可爱爱**的东西和人~<br>
