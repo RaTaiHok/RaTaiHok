@@ -9,7 +9,7 @@
 - TypeScript
 - Vue
 - SQL
-- C# (For Godot)
+- C# (For Godot/Unity)
 - Java
 - IDA逆向
 - 华为ICT
