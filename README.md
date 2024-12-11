@@ -10,8 +10,6 @@
 - Vue
 - SQL
 - C# (For Godot/Unity)
-- Java
-- IDA逆向
 - Web渗透
 - minecraft datapack (mcfunction)
 
@@ -21,7 +19,6 @@
 - 音游
   - Arcaea
   - Rotaeno
-  - Phira
   - Malody
   - Osu!
   - Dynamite
