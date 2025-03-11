@@ -12,6 +12,8 @@
 - C# (For Godot/Unity)
 - Web渗透
 - minecraft datapack (mcfunction)
+- C
+- Rust
 
 ### 兴趣爱好：🎵
 喜欢**可可爱爱**的东西和人~<br>
