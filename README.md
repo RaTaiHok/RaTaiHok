@@ -10,22 +10,22 @@
 - Vue
 - SQL
 - C# (For Godot/Unity)
-- Web渗透
 - minecraft datapack (mcfunction)
-- C
 - Rust
 
 ### 兴趣爱好：🎵
 喜欢**可可爱爱**的东西和人~<br>
 喜欢**粉色、蓝色、白色**
 - 音游
-  - Arcaea
   - Rotaeno
-  - Malody
   - Osu!
-  - Dynamite
+  - MaimaiDX
+  - Chunithm
+  - Vivid/Stasis
 - Minecraft
 - 二次元
+- 横版游戏
+- Celeste
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaTaiHok&show_icons=true)](#)
 
