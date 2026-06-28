@@ -27,8 +27,10 @@
 - 横版游戏
 - Celeste
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaTaiHok&show_icons=true)](#)
+<!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaTaiHok&show_icons=true)](#)-->
 
-[![RaTaiHok's GitHub Stats](https://readme.lvtao.net/api?username=RaTaiHok&_=1779965969316)](#)
+<div align="left">
+  <img src="https://githubcard.com/RaTaiHok.svg?d=_gFZaxQ4" alt="GitHub Stats" />
+</div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RTHsama&layout=compact&theme=dracula&hide_border=true">
