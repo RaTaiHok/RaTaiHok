@@ -9,23 +9,20 @@
 - TypeScript
 - Vue
 - SQL
-- C# (For Godot/Unity)
 - minecraft datapack (mcfunction)
 - Rust
+- Go
 
 ### 兴趣爱好：🎵
 喜欢**可可爱爱**的东西和人~<br>
 喜欢**粉色、蓝色、白色**
 - 音游
   - Rotaeno
-  - Osu!
   - MaimaiDX
   - Chunithm
-  - Vivid/Stasis
+  - DJMAX
 - Minecraft
-- 二次元
 - 横版游戏
-- Celeste
 
 <!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaTaiHok&show_icons=true)](#)-->
 
